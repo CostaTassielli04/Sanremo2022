@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+header{
+	background-color:blue;
+	color:white;
+	font-family:Calibri;
+	text-align:center;
+	font-size:32px;
+}
+table{
+	margin: 0 auto;
+}
+
+b{
+	color:orange;
+}
+
+p{
+	color:green;
+	font-size:18px;
+}
+
+footer{
+ 	font-family:Algerian;
+ 	text-align:right;
+ 	color:blue;
+ }
+ 
+body{background-color:#ffe4c4;}
